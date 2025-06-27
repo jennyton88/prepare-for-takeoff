@@ -6,7 +6,7 @@
 
 Credits:
 
-- Art, modelling by me
+- Art, modeling by me
 - Sky and ground textures by my partner in crime
 - [3D Painted Cactus Tutorial by Polygon Runway](https://www.youtube.com/watch?v=BScbQjfTMfs)
 
