@@ -2,7 +2,7 @@
 
 [Check it out on itch.io](https://jennydevs.itch.io/prepare-for-takeoff)
 
-[View it on Youtube](https://www.youtube.com/watch?v=cjbK8Gei-Dg)
+[View it on YouTube](https://www.youtube.com/watch?v=cjbK8Gei-Dg)
 
 Credits:
 
