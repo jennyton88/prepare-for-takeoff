@@ -4,7 +4,7 @@ Check out the submission page on [itch](https://jennydevs.itch.io/prepare-for-ta
 
 ## Final Image Render
 
-![Render](https://github.com/user-attachments/assets/66504884-d832-4e7e-a539-8cd9ee700c6b)
+![Render of three buns riding on a winged serpent, about to takeoff from a dock](image_render.png)
 
 ## Thoughts & Notes
 
